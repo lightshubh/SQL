@@ -1,2 +1,2 @@
 # SQL
-This is the Exercise and practice folder for SQL
+This is the Exercise, practice and project folder for SQL
