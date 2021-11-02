@@ -430,32 +430,4 @@ WHERE pageview_url IN ('/billing', '/billing-2')
  --  hence total increase 1193*8.51= 10,152.43
     
     
-    
-        
-        
-        
-        
-        
-
-
-
-
-      
-
-
-select * from website_sessions;
-select * from orders;
-select distinct(items_purchased) from orders;
-select * from orders
-where items_purchased= 2;
-select distinct(pageview_url) from website_pageviews;
-select * from website_pageviews;
-select distinct(pageview_url) from website_pageviews
-where pageview_url like '/b%';
-
-
-
-				
-        
-        
-        
+         
