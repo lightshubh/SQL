@@ -1,4 +1,3 @@
-use mavenfuzzyfactory;
 
 -- 1 -- website session for utm source gsearch and bsearch between date '2012-08-22' and '2012-11-29' 
 
